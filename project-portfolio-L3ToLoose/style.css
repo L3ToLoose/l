@@ -1,0 +1,135 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    background-color: grey;
+    background-image: url("dragonballzak.gif");
+    background-size: 100%;
+
+  }
+  
+  nav {
+    width: 100%;
+    height: 100px;
+    background-color: #fff;
+    line-height: 100px;
+    background-image: url("galaxy.jpg");
+    background-repeat: no-repeat;
+  }
+  
+  ul li {
+  list-style: none;
+  display: inline-block;
+  flex-direction: row;
+  }
+  
+  ul li a{
+  display: block;
+  text-decoration: none;
+  font-size: 20px;
+  font-display: arial;
+  color:white;
+  padding: 0 20px;
+  }
+
+H3{
+    text-align: center;
+    color: white;
+}
+ img{
+   text-align: center;
+ }
+
+.ROC{
+    font-size: 30px;
+}
+
+.Blackops2{
+    font-size: 30px;
+}
+
+#Mondriaan{
+  height: 300px;
+  width: 300px;
+}
+
+#portofolio{
+  height: 200px;
+  width: 400px;
+}
+
+h2{
+  color: black;
+  text-align: center;
+}
+
+.overmij{
+  color: aquamarine;
+  font-size: 30px;
+}
+
+html{
+  background-image: url("dragonballzak.gif");
+  background-size: 100%;
+}
+
+.Contact{
+  color: black
+  font-size: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+  justify-content: center;
+  }
+
+.vaardigheden{
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+}
+
+.like{
+  color: red;
+  
+}
+
+.like{
+  color: green;
+  font-size: 40px;
+}
+
+.social-dislike{
+  color: red;
+  font-size: 40px;
+}
+
+.countL{
+  color: green;
+  font-size: 40px;
+}
+
+p{
+  font-size: 40px;
+  color: white;
+}
+
+li{
+  align-items: center;
+  color: red;
+}
+
+#linked{
+  color:black;
+  display: flex;
+  justify-content: center;
+  font-size: 30px;
+}
+
+.time{
+  display: flex;
+  justify-content: center;
+}
+
+h1{
+  color: black;
+  text-align: center;
+}
